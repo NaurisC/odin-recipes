@@ -1,1 +1,1 @@
-# odin-recipes
+A basic html lesson covering boilerplate, headings, paragraphs ordered and unordered lists as well as linked images. 
